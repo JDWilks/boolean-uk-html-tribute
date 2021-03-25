@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+.Heading {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/3746971/pexels-photo-3746971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  place-items: center;
+  color: white;
+  font-size: 40px;
+}
+
+h2 {
+  color: white;
+  text-shadow: 5px 5px 5px black;
+}
+
+.Contents {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/3747281/pexels-photo-3747281.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  place-items: center;
+  color: black;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+.contents-list {
+  font-family: sans-serif;
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+.List {
+}
+
+.Design-Concept {
+}
+
+.Bauhaus-Style {
+}
+
+.Characteristics {
+}
